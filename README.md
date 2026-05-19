@@ -6,7 +6,7 @@ DeepFake Audio Detection is a machine learning-based web application that analyz
 ---
 
 ## 🚀 Live Demo
-👉 Add your deployed link here (Netlify / Render / GitHub Pages)
+👉 https://demo-deepfake-audio-detection.netlify.app/
 
 ---
 
