@@ -78,7 +78,6 @@ deepfake-audio-detection/
 └── README.md
 ```
 
----
 
 ## ⚙️ How It Works
 
@@ -89,20 +88,4 @@ deepfake-audio-detection/
 5. If fake → alert is triggered  
 
 ---
-
-## 📞 Alert System
-
-- Detects suspicious/fake audio  
-- Shows instant warning in UI  
-- Can be upgraded to:
-  - Twilio phone call alerts  
-  - Email notifications  
-
-## 📌 Future Improvements
-
-- Real-time voice streaming detection  
-- Twilio call alert integration  
-- Mobile app version  
-- Deep learning models (CNN/RNN/Transformer)  
-- Cloud database support  
 
